@@ -2,4 +2,9 @@ navbar {
   display: block;
   background-color: #333;
   color: white;
+  
+}
+
+li {
+  text-decoration: none;
 }
